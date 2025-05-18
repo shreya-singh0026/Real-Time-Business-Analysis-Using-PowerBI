@@ -36,7 +36,8 @@ The dashboard helps businesses:
 ---
 
 ## 📷 Screenshot
-![Result](Result/output1.png)
-![Dashboard Screenshot](https://github.com/shreya-singh0026/Real-Time-Business-Analysis-Using-PowerBI/blob/main/Result/output1.png)
+![Dashboard Screenshot](Result/output1.png)
+![Dashboard Screenshot](https://github.com/shreya-singh0026/Real-Time-Business-Analysis-Using-PowerBI/blob/main/Result/output3.png)
+![Dashboard Screenshot](https://github.com/shreya-singh0026/Real-Time-Business-Analysis-Using-PowerBI/blob/main/Result/output6.png)
 
 ---
