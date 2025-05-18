@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Sales Dashboard 📊
 
-This project is a Power BI dashboard designed to analyze and visualize the sales performance of an e-commerce platform. It provides real-time insights into sales, profits, customer behavior, product performance, and regional trends.
+This project is a Power BI dashboard designed to analyze and visualize the sales performance of an e-commerce platform. It provides real-time insights into sales, profits, customer behaviour, product performance, and regional trends.
 
 ---
 
@@ -22,7 +22,7 @@ The dashboard helps businesses:
 
 - Identify high-performing products and regions
 - Monitor sales and profit trends
-- Understand customer behavior and preferences
+- Understand customer behaviour and preferences
 - Optimize inventory and marketing strategies
 
 ---
